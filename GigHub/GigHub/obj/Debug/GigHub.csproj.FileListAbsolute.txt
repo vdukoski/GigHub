@@ -120,3 +120,5 @@ C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\D
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.pdb
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitialModel.resources
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.cache
+C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
