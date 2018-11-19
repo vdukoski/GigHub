@@ -125,3 +125,10 @@ C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\D
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNameToApplicationUser.resources
+C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
+C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\bin\System.Net.Http.Formatting.dll
+C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\bin\System.Web.Http.dll
+C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\bin\System.Web.Http.WebHost.dll
+C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\bin\System.Net.Http.Formatting.xml
+C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\bin\System.Web.Http.xml
+C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\bin\System.Web.Http.WebHost.xml
