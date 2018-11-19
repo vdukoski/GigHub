@@ -124,3 +124,4 @@ C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\D
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
+C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNameToApplicationUser.resources
