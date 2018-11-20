@@ -28,6 +28,8 @@ textarea {
     font-weight: bold;
 }
 
+.vooffset {margin-top: 40px;}
+
 /*Bootstrap Overrides*/
 .navbar-inverse {
     background-color: #ff4342;

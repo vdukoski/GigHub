@@ -113,7 +113,6 @@ C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\bin\M
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\bin\Microsoft.AI.Web.xml
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.csprojAssemblyReference.cache
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.csproj.CoreCompileInputs.cache
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.csproj.CopyComplete
 C:\Users\User5570\Desktop\Full Stack Developer Tutorial Mosh\GigHub\GigHub\obj\Debug\GigHub.dll
